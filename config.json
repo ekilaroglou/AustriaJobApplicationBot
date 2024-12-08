@@ -1,0 +1,15 @@
+{
+	"url": "Provide the URL for the job application form. Example: https://www.paznaun-ischgl.com/en/crew/jobs/jobs?categories%5B%5D=8524459&categories%5B%5D=174928&categories%5B%5D=174946&categories%5B%5D=174980&categories%5B%5D=174964&categories%5B%5D=175128&categories%5B%5D=174955&categories%5B%5D=175048&categories%5B%5D=175120&categories%5B%5D=8524541&categories%5B%5D=8524529&categories%5B%5D=176233&seasons%5B%5D=winter&employmentTypes%5B%5D=8446243&search=&regions%5B%5D=",
+	"salutation": "Your salutation (e.g., Mr, Mrs, Ms, Dr, etc.)",
+	"first_name": "Enter your first name",
+	"last_name": "Enter your last name",
+	"date_of_birth": "Enter your birth date in ISO format (YYYY-MM-DD). Example: 1996-05-19",
+	"phone": "Enter your phone number with country code. Example: +1 123-456-7890",
+	"email": "Enter your email address. Example: yourname@example.com",
+	"street": "Enter your street name. Example: Main Street",
+	"street_number": "Enter your house or apartment number. Example: 123",
+	"zip": "Enter your postal or ZIP code. Example: 12345",
+	"city": "Enter your city. Example: New York",
+	"country": "Enter your country. Example: USA",
+	"cover_letter": "Write the text of your cover letter. Example: 'I am excited to apply for the position of...'"
+}
